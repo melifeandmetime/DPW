@@ -1,2 +1,2 @@
-# DPW1
+# DPW
 Tugas Desain dan Pemrograman WEB
